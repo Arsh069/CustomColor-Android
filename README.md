@@ -25,7 +25,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.Arsh069:CustomColor-Android:Tag'
+    implementation 'com.github.Arsh069:CustomColor-Android:$latest_release"
 }
 ```
 
