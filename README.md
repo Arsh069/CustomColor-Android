@@ -34,7 +34,7 @@ Sample implementation [here](app/)
 -
 #### Changing text color
 ```kotlin
-   CustomColor("text", Start Index, End Index, Text id)
+   CustomColor.ColorName("text", Start Index, End Index, Text id)
 ```
 In the above sample you have to add a String text, start index and end index for giving range  of text you want to be colored and the id of textview where you want to set it. 
 
